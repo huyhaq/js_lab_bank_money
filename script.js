@@ -16,6 +16,8 @@ let message = `
 <pre>
 So Nam Gui: ${year}
 
+Tien goc: ${money}
+
 Lai suat:${bankPercent} %
 
 Sau ${year} nam tien lai: ${interestMoney}
